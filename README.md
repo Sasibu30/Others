@@ -1,4 +1,4 @@
-# Matlab Project
+# <h1>Matlab Project</h1>
 
 # 4 Bar-Linkage Mechanism
 <h2>Proto Type</h2>
@@ -23,3 +23,8 @@ Reference Book : Design Of Machinery - Robert Norton 2Nd Edition
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/29113928/77230267-66cb6300-6bd6-11ea-8cf3-9e5114cb4315.png" width="207" height="377">
 </div>  
   
+# <h1>Arduino</h1>
+
+# Pitching Machine Control
+<h2>Our Pitching Machine</h2>
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/29113928/77230663-29b4a000-6bd9-11ea-945c-c71e3cd36cca.PNG" width="652" height="377">
