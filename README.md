@@ -7,3 +7,7 @@
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/29113928/77227930-22849680-6bc7-11ea-991b-05e5d36d1246.PNG" width="470" height="377">
 
 Reference Book : Design Of Machinery - Robert Norton 2Nd Edition
+
+# 2D Airfoil Simple Analysis
+<h2>Cp Distribution aAong Airfoil </h2>
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/29113928/77228632-f3245880-6bcb-11ea-913f-a8799dc63054.PNG" width="470" height="420">
