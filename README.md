@@ -11,3 +11,7 @@ Reference Book : Design Of Machinery - Robert Norton 2Nd Edition
 # 2D Airfoil Simple Analysis
 <h2>Cp Distribution aAong Airfoil </h2>
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/29113928/77228632-f3245880-6bcb-11ea-913f-a8799dc63054.PNG" width="470" height="420">
+
+# Mechanical Vibration Study
+<h2>Frequency Respose</h2>
+<img style="-webkit-user-select: none;margin: auto;" src="https://user-images.githubusercontent.com/29113928/77229892-c411e500-6bd3-11ea-8b53-c160ce40b139.png">
