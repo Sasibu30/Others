@@ -15,3 +15,11 @@ Reference Book : Design Of Machinery - Robert Norton 2Nd Edition
 # Mechanical Vibration Study
 <h2>Frequency Respose</h2>
 <img style="-webkit-user-select: none;margin: auto;" src="https://user-images.githubusercontent.com/29113928/77229892-c411e500-6bd3-11ea-8b53-c160ce40b139.png">
+
+# Vision Measurement 
+<h3>1.Original &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2.Get from Matlab</h3>
+<div>
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/29113928/77230264-6632cc80-6bd6-11ea-8dd6-4763cb0e1518.jpg" width="180" height="377">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/29113928/77230267-66cb6300-6bd6-11ea-8cf3-9e5114cb4315.png" width="207" height="377">
+</div>  
+  
