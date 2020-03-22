@@ -28,3 +28,5 @@ Reference Book : Design Of Machinery - Robert Norton 2Nd Edition
 # Pitching Machine Control
 <h2>Our Pitching Machine</h2>
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/29113928/77230663-29b4a000-6bd9-11ea-945c-c71e3cd36cca.PNG" width="652" height="377">
+
+E-Mail : seunghwan1547@gmail.com
